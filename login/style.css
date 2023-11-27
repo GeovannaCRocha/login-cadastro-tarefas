@@ -1,0 +1,35 @@
+
+* {
+    background-color: #e0c6fd;
+}
+
+body{
+    text-align: center;
+}
+
+.titulo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.login {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+
+}
+
+.inputUsuario, .inputSenha {
+    background-color: rgba(255, 255, 255, 0.493);
+    font-family: 'Poppins', sans-serif; 
+}
+
+.botao-entrar {
+    font-family: 'Poppins', sans-serif ;
+}
+
+.mensagem {
+    font-family: 'Poppins', sans-serif;
+    font-size: x-large;
+}
+

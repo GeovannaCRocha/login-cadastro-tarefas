@@ -1,0 +1,13 @@
+
+* {
+    background-color:#e0c6fd;
+}
+
+.titulo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+    border-top: 250px;
+}
+
+
